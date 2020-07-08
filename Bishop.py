@@ -1,4 +1,4 @@
-import Piece
+from Piece import *
 
 
 class Bishop(Piece):
