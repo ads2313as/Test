@@ -1,5 +1,4 @@
-import Piece
-
+from Piece import *
 
 class Knight(Piece):
     def __init__(self, x, y, color):
